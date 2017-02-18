@@ -36,5 +36,5 @@ print (y)
         
 plot(x,y)
 xlabel('x')
-ylabel('E_x')
+ylabel('E(x)')
 show()
